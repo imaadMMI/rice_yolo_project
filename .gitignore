@@ -1,0 +1,7 @@
+# Dataset, interim data and trained models
+Dhan-Shomadhan/
+Dhan-Shomadhan.zip
+_yolo/
+runs/
+*.pt
+__pycache__/
